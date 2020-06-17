@@ -32,8 +32,8 @@
         android:id="@+id/submit"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:background="@android:color/holo_orange_light"
         android:text="HELP !"
+        android:backgroundTint="@color/orange"
         android:textColor="@android:color/background_light"
         android:textSize="18sp" />
 
